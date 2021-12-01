@@ -8,3 +8,5 @@ Outomes:
 - Visually and numerically depict the effects of social distancing through governmental regulations such as the PSBB in Indonesia to understand its effectiveness.
 - Filtered and formulated data from the limited resources regarding COVID-19 in Indonesia on the internet on MS Excel at that time.
 - Implemented fundamental pseudo coding theory with MATLAB to create a user interface to fetch the data from the MS Excel tables made previously upon user interaction.
+
+It should be stated that this prediction should not be taken as truth due to plenty of problem decomposition as well as excluding multiple crucial data and variables such as herd immunity, the creation of a cure/vaccine, and whether the disease may evolve.
